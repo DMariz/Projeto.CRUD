@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projeto .Net\\Projeto.CRUD\\Projeto.CRUD\\ComidasCRUD\\ComidasCRUD\\ComidasCRUD.csproj": {}
+    "C:\\Projeto .Net\\Projeto.CRUD\\Projeto.CRUD\\ComidasCRUD\\ComidasCRUD.csproj": {}
   },
   "projects": {
-    "C:\\Projeto .Net\\Projeto.CRUD\\Projeto.CRUD\\ComidasCRUD\\ComidasCRUD\\ComidasCRUD.csproj": {
+    "C:\\Projeto .Net\\Projeto.CRUD\\Projeto.CRUD\\ComidasCRUD\\ComidasCRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projeto .Net\\Projeto.CRUD\\Projeto.CRUD\\ComidasCRUD\\ComidasCRUD\\ComidasCRUD.csproj",
+        "projectUniqueName": "C:\\Projeto .Net\\Projeto.CRUD\\Projeto.CRUD\\ComidasCRUD\\ComidasCRUD.csproj",
         "projectName": "ComidasCRUD",
-        "projectPath": "C:\\Projeto .Net\\Projeto.CRUD\\Projeto.CRUD\\ComidasCRUD\\ComidasCRUD\\ComidasCRUD.csproj",
+        "projectPath": "C:\\Projeto .Net\\Projeto.CRUD\\Projeto.CRUD\\ComidasCRUD\\ComidasCRUD.csproj",
         "packagesPath": "C:\\Users\\DANIEL LOCIO\\.nuget\\packages\\",
-        "outputPath": "C:\\Projeto .Net\\Projeto.CRUD\\Projeto.CRUD\\ComidasCRUD\\ComidasCRUD\\obj\\",
+        "outputPath": "C:\\Projeto .Net\\Projeto.CRUD\\Projeto.CRUD\\ComidasCRUD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DANIEL LOCIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
