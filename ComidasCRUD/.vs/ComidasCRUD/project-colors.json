@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "04524ec3-3b72-48e3-b63f-347b8daef7d2": {
+      "ProjectGuid": "04524ec3-3b72-48e3-b63f-347b8daef7d2",
+      "DisplayName": "ComidasCRUD",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

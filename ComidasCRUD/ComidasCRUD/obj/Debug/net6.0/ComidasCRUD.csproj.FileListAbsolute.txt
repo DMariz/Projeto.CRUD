@@ -1,0 +1,5 @@
+C:\Projeto .Net\Projeto.CRUD\Projeto.CRUD\ComidasCRUD\ComidasCRUD\obj\Debug\net6.0\ComidasCRUD.csproj.AssemblyReference.cache
+C:\Projeto .Net\Projeto.CRUD\Projeto.CRUD\ComidasCRUD\ComidasCRUD\obj\Debug\net6.0\ComidasCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto .Net\Projeto.CRUD\Projeto.CRUD\ComidasCRUD\ComidasCRUD\obj\Debug\net6.0\ComidasCRUD.AssemblyInfoInputs.cache
+C:\Projeto .Net\Projeto.CRUD\Projeto.CRUD\ComidasCRUD\ComidasCRUD\obj\Debug\net6.0\ComidasCRUD.AssemblyInfo.cs
+C:\Projeto .Net\Projeto.CRUD\Projeto.CRUD\ComidasCRUD\ComidasCRUD\obj\Debug\net6.0\ComidasCRUD.csproj.CoreCompileInputs.cache
